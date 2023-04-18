@@ -1,0 +1,70 @@
+body {
+    background: rgb(92, 43, 163); 
+    color: #fff; 
+    background-attachment: fixed;
+    background-repeat: repeat-x; 
+}
+
+
+.navbar-brand img{
+    width: 65px;
+}
+
+.nav-link
+{    color: #fcc52a;
+    font-size: 21.5px;
+}
+
+/* .list-group-item{
+    font-size: 18.5px;
+} */
+
+/* .card-footer{
+    font-size: 18.5px;
+     color: white;
+
+} */
+
+.navbar{
+    background-color:  rgb(92, 43, 163);
+}
+
+.navbar-toggler {
+    background-color:  #fcc52a;
+}
+
+.btn{
+    font-size: 19px;
+    color: white;
+/* background-color: red; */
+}
+.dropdown-menu{
+    font-size: 19px;
+    background-color: rgb(94, 254, 254);
+    color: rgb(0, 0, 0);
+}
+th,
+td {
+    font-weight: bold;
+    margin: 5%;
+}
+
+.DATA{
+    border-collapse: collapse;
+    background: white;
+    color: black;
+}
+
+.new{
+    color: rgb(166, 166, 166);
+}
+
+.gryt td:hover { 
+ background-color: aquamarine;
+ margin: 5%;
+}
+
+.fff:hover{
+    color: rgb(166, 166, 166) ;
+    background-color: rgb(255, 88, 88);
+}
